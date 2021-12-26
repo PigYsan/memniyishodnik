@@ -1,6 +1,7 @@
 body{
  background-image: url("../img/fon\ \(1\).png");
  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ backdrop-filter: blur(8px);
 }
 .dws-menu{
     background-color: rgb(255, 255, 255);
@@ -91,7 +92,7 @@ li.dws-li a:hover{
      color: rgb(0, 0, 0);
 }
 .ghoul p{
-     color: rgb(80, 80, 90);
+     color: rgb(208, 228, 26);
 }
 .memi {
     background: none;
